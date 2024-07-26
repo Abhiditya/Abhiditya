@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abhiditya</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhiditya" alt="abhiditya" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript, SQL, DSA**
 
 - 📫 How to reach me **k.abhidtya09@gmail.com**
 
-- ⚡ Fun fact **I am proficient in sarcasm**
+- ⚡ Fun fact **I am proficient in sarcasm more than any other language**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
