@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **k.abhidtya09@gmail.com**
 
-- ⚡ Fun fact **I am proficient in sarcasm more than any other language**
+- ⚡ Fun fact :**I am proficient in sarcasm more than any other language**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
